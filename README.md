@@ -13,7 +13,7 @@ I’m a passionate **Software Development Engineer in Test (SDET)** from **Nalkh
 ---
 
 ## 🔧 Work:
-I completed a manual testing project on the Adidas demo website, performing thorough exploratory testing to ensure functionality and enhance the user experience. I am currently working on an automation project, developing and executing test scripts using Selenium and Cypress to improve testing efficiency and coverage.
+I completed a manual testing project on the Mercury demo website, performing thorough exploratory testing to ensure functionality and enhance the user experience. I am currently working on an automation project, developing and executing test scripts using Selenium and Cypress to improve testing efficiency and coverage.
 
 ---
 
