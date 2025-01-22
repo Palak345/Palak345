@@ -10,7 +10,7 @@
 I’m a passionate **Software Development Engineer in Test (SDET)** from **Nalkheda, Indore, Madhya Pradesh**. Currently, I’m honing my skills at **Masai School**, focusing on delivering exceptional software quality through **rigorous testing practices**.
 
 ---
-## My Resume
+## 📄 My Resume
 [View My Resume](https://drive.google.com/file/d/1rI-kVewnc8xuGdi6wE7vmN3rZ_rdZ_5t/view?usp=sharing) 
 
 ## 🔧 Work:
