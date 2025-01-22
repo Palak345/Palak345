@@ -10,6 +10,8 @@
 I’m a passionate **Software Development Engineer in Test (SDET)** from **Nalkheda, Indore, Madhya Pradesh**. Currently, I’m honing my skills at **Masai School**, focusing on delivering exceptional software quality through **rigorous testing practices**.
 
 ---
+## My Resume
+[View My Resume](https://drive.google.com/file/d/1rI-kVewnc8xuGdi6wE7vmN3rZ_rdZ_5t/view?usp=sharing) 
 
 ## 🔧 Work:
 I completed a manual testing project on the Mercury demo website, performing thorough exploratory testing to ensure functionality and enhance the user experience. I am currently working on an automation project, developing and executing test scripts using Selenium and Cypress to improve testing efficiency and coverage.
