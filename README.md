@@ -11,7 +11,7 @@ I’m a passionate **Software Development Engineer in Test (SDET)** from **Nalkh
 
 ---
 ## 📄 My Resume
-[View My Resume](https://drive.google.com/file/d/1rI-kVewnc8xuGdi6wE7vmN3rZ_rdZ_5t/view?usp=sharing) 
+[View My Resume](https://drive.google.com/file/d/1Tf0u3p6xOMQcrMYgMguIaElk0DiDmJjd/view?usp=sharing) 
 
 ## 🔧 Work:
 I completed a manual testing project on the Mercury demo website, performing thorough exploratory testing to ensure functionality and enhance the user experience. I am currently working on an automation project, developing and executing test scripts using Selenium and Cypress to improve testing efficiency and coverage.
